@@ -5,7 +5,6 @@ import com.ies.CorrespondenceMS.DTO.EligibilityDetailsDTO;
 import com.ies.CorrespondenceMS.entity.CorrespondenceEntity;
 import com.ies.CorrespondenceMS.repository.CorrespondenceRepository;
 import org.springframework.beans.BeanUtils;
-import org.springframework.beans.factory.BeanClassLoaderAware;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
 import org.springframework.stereotype.Service;
